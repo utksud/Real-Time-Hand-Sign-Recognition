@@ -5,6 +5,19 @@ The project uses a **custom-trained Keras model** (via Teachable Machine) to cla
 
 ---
 
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/589b1e4d-bc11-4dd7-a145-208e76013429" 
+       alt="Screenshot 1" style="width: 300px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/fcbc4158-606d-4a3d-9fbd-44b017222608" 
+       alt="Screenshot 2" style="width: 300px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/05c697c3-b625-4711-a884-f1eca0bdc8f9" 
+       alt="Screenshot 3" style="width: 300px; height: 200px; object-fit: cover; border-radius: 8px;">
+</div>
+
+
+
+
+
 ## 🚀 Features
 - Detects and tracks a single hand using **cvzone HandTrackingModule**  
 - Crops and preprocesses the hand image into a **300×300 white canvas** for consistent model input  
